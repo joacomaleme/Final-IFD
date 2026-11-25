@@ -1,0 +1,27 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2025/Boletines/Boletin-Comite-Ejecutivo-6806-(19-12-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:13.116948Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:13 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "120820",
+        "Connection": "close",
+        "x-amz-id-2": "ZwArX2YvuhlgXwqkgc3csZLKzefnBLpx1CGUCei/dPNzJmPoAlKlBZntYeRDQmMOBKI7NFnEEUrfRcD71naZ9GYm6pblDqP7",
+        "x-amz-request-id": "3B6RNZG2RTCRXNVZ",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 19 Dec 2025 22:11:21 GMT",
+        "etag": "\"7337e6fb10658df9ffe5811b9ccabb0e\"",
+        "Age": "6060",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "HIT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=U%2Bq9cyFnczii76Iqv%2BnHFYmrfAFcHF0NVLb8juHouFjrffjkIdeFHMYZ4iPQwin%2FVjwRDiudqwFuis2q3OtBZ%2FLizYzErd5xymaEST8CymXbE2NLeVQJ%2BWN1y%2B9AK%2BRKsy9%2Bow%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a6016842bea9829e-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

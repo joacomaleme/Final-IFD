@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/media/DANI/FEB-25/Boletin-Resoluciones-6630-(14-02-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:04.227828Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:04 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "146582",
+        "Connection": "close",
+        "x-amz-id-2": "9zsV5KKfryxNpaV6BLC5FbtLRYZsqmOvHBY8Od3t/Q8rePyG3NBNT7SECYFh4aLB3aMdpi80bR+e9CmHEFB5dhlKL04zAR9e",
+        "x-amz-request-id": "RD4YFZ4CGDPA9H9J",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 14 Feb 2025 16:42:24 GMT",
+        "ETag": "\"c9b4573b91352f3d6b0bf25ddff99396\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "MISS",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5QBvwMxQzrFdz3uzciFNVVKiiAlYKj1zyaGQzYaCa0wbdD0w0XTybROWBQim0w602M0pDm0r1Cj2VAQm5fE5gS%2FauNbBKWWwOe%2FO6ks52WnxpLLYAC1rbUn3%2BxcS2FZiEEp%2F6A%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a601680b1e4aabb9-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

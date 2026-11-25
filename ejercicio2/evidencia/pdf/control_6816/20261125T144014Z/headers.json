@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2026/BOLETINES/Boletin-Resoluciones-6816-(16-01-2026).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:14.210312Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:14 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "241260",
+        "Connection": "close",
+        "x-amz-id-2": "+JZy7q0UuJnf066x6PLtFO1PcHkbwPrbwOvQlNhm0FgeP6vc2Ls5kF6NEPiAzees/spVwGiwROOFUv24pN8/slAr9EsXs1a2",
+        "x-amz-request-id": "Y72CVXZW4NSCABMB",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 16 Jan 2026 20:54:39 GMT",
+        "etag": "\"53e057295eb943233bbdbf5b9bccc191\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6EdIR2WmTEPrTlz0vrWaPNrO%2B7Bppvnan50Gj0Z6UiqbyZV4wSHbQMHcBxcEe2zOggQdnGUDBpQ2NGG6yrHvCyaICsA9tUwWkildYTLb4XJvn2bDgzHp07JTJDPROfg3nKdPaQ%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a6016849880b2d11-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

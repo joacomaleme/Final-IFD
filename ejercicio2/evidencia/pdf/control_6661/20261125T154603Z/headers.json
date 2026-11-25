@@ -1,0 +1,27 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2025/Boletin-6661-x-Comite-Ejecutivo-(03-04-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T15:46:03.201847Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 15:46:03 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "126443",
+        "Connection": "close",
+        "x-amz-id-2": "ZLLNPamOj9vPThVetRWwYW7iGu5zZ0FDO9xz+z8Kro6lJjimAC01bI6+0sLCWRxn1k+LmpuAwXE=",
+        "x-amz-request-id": "QKMHZKW1HSZG8Q2Y",
+        "Server": "cloudflare",
+        "Last-Modified": "Tue, 25 Nov 2025 01:58:58 GMT",
+        "etag": "\"5d6a3b335c767e75cf093b9878af9cc2\"",
+        "Age": "111",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "HIT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lgm2Ocjqk6pDWG9CmdWI1Uz99HmoE1I93UtZ0D%2BeMmXyaAPVO42SLrqKpIoYQ5Ur%2F82x7EtCzjuz5uhAf9wa2lAHLY5SVxOkN7zHXzAde8e5EiksIO3JBRqQ5358rmdLJ%2BEiag%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a601c8b46ba58eaa-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

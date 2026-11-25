@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/media/DANI/ENE-25/Boletin-Resoluciones-6611-(17-01-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:02.294316Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:02 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "162914",
+        "Connection": "close",
+        "x-amz-id-2": "C1Z+VPJg9JEFgCcsp2niEHMU3yqKWztZ09UkEdxqUTbwUvGQD/rrhlG321mTTbv6T0ddf4iagxM=",
+        "x-amz-request-id": "S8179KFZ50RNPNB0",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 17 Jan 2025 22:39:00 GMT",
+        "etag": "\"1ca52dc60764d602737db0d3f8762149\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SsGv%2FOSPkMbgUyJgDIsW%2FizicbqfQJYgqHmWmmlunirMtwTQIjm9A6M57cGxOr%2FuT62IY%2Fjf9xqpdAerNapKeLVdC3g5J6pUxrjDFqjhZ2PCdp4gJEa0MgYhsqFK%2FDlgmD7nbw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a60167ff9c8d25db-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

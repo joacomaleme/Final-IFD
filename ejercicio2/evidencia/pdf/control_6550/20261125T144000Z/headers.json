@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/torneo/Lea/Septiembre/Boletin-Resoluciones-6550-(30-08-2024).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:00.157472Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:00 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "765205",
+        "Connection": "close",
+        "x-amz-id-2": "/9JMcYxQ5C9p4/G2Sb8+SkVr+SQlczqDq6J3qb+ek0G8e/YdAh06yCHO3+tkUoVvF3zjMSsgN+tIgHF3WGq7XWUp8pEntDUq",
+        "x-amz-request-id": "HGY0WQSMRH27T2M3",
+        "Server": "cloudflare",
+        "Last-Modified": "Wed, 25 Sep 2024 22:41:57 GMT",
+        "etag": "\"451f192840111f43ebc116a9f96d6659\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kQT11AVY9G6QFIQqJtEwwXBY9EmUxGMA8XKVNKLFFrxOjPdnJZup60zISZCb2CqHADVlywoim2DDXyQ3v931THjQsYoJ%2FAp0yxToXx8%2BSDJpwtbjn4veEPtxELG8eUnrnYy5ng%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a60167f1eed4241f-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

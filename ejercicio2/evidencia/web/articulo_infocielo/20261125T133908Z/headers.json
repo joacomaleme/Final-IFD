@@ -1,0 +1,32 @@
+{
+  "hops": [
+    {
+      "url": "https://www.infocielo.com/deportes/el-boletin-fantasma-el-articulo-con-el-que-la-afa-quiere-sancionar-a-estudiantes-no-figuraba-en-la-web-oficial-y-se-creo-despues-del-pasillo",
+      "status": 200,
+      "requested_utc": "2026-11-25T13:39:08.849018Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 13:39:09 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+        "CF-Ray": "a6010ecd58c5c998-IAD",
+        "CF-Cache-Status": "DYNAMIC",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fF1Qy9Is36UcNfQYW2krOcaIe9%2BjX%2FnzJtw%2BibupcuKp%2FkILIzX3ze33HJwg2AxVQ4w2wk7TtnWpTLKAmA6cq7QAUJErXsMbX8BkxWnl%2B9NpQLjFEp1pLewPFS%2B3onA5zaO6\"}]}",
+        "Link": "<https://www.infocielo.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.infocielo.com/wp-json/wp/v2/posts/1353325>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.infocielo.com/?p=1353325>; rel=shortlink",
+        "Server": "cloudflare",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+        "Vary": "Accept-Encoding",
+        "Ki-CF-Cache-Status": "BYPASS",
+        "X-Content-Type-Options": "nosniff",
+        "X-Edge-Location-Klb": "1",
+        "ki-cache-type": "None",
+        "ki-edge": "v=28.6.2;mv=99.9.9",
+        "ki-origin": "o1i",
+        "x-kinsta-cache": "HIT",
+        "set-cookie": "__cf_bm=uoGAY50jAQYIDmsm.6mPv4mWzNQ4XmcWJYLNBq8V1xA-1795613949.0151424-1.0.1.1-tKAoft9mJdXpuuVq4WyB.KBDHK1TDdSS8NxMdNZIkzVIQUf86VH1zI.M_rvGuR_MPRcfJVSPScQrjsTvIpp3nTevdr2hCqtuoS01w6lCI_P2YI_iCic7ryAkPmz00pOZ; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=www.infocielo.com; Expires=Wed, 25 Nov 2026 14:09:09 GMT",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

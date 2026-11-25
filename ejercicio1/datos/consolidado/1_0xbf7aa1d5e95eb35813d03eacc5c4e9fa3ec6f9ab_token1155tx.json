@@ -1,0 +1,34 @@
+{
+  "chainid": 1,
+  "address": "0xbf7aa1d5e95eb35813d03eacc5c4e9fa3ec6f9ab",
+  "action": "token1155tx",
+  "snapshot_block": 26486516,
+  "estado": "ok",
+  "generado_utc": "2026-11-24T17:31:42.899278Z",
+  "cantidad": 1,
+  "items": [
+    {
+      "blockNumber": "23756861",
+      "timeStamp": "1762632899",
+      "hash": "0xbfe9ca61144e26e95c1932610b7427fe303d8b4562d255099a85caa1c5d78a73",
+      "nonce": "55",
+      "blockHash": "0x477157365dd3b6ae12e1bd0dfebef43ec0eff5b39415a23fd01467dc215cb4eb",
+      "transactionIndex": "227",
+      "gas": "3540017",
+      "gasPrice": "90160656",
+      "gasUsed": "3482405",
+      "cumulativeGasUsed": "19556314",
+      "input": "deprecated",
+      "methodId": "0xc204642c",
+      "functionName": "airdrop(address[] _to, uint256 _amount)",
+      "contractAddress": "0xd68e1d5fd2aabcfd4d8852664d3c97276074e58a",
+      "from": "0x090d4613473dee047c3f2706764f49e0821d256e",
+      "to": "0xbf7aa1d5e95eb35813d03eacc5c4e9fa3ec6f9ab",
+      "tokenID": "1",
+      "tokenValue": "1",
+      "tokenName": "Unisocks NFT",
+      "tokenSymbol": "Unisocks",
+      "confirmations": "2729669"
+    }
+  ]
+}

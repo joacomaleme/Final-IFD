@@ -1,0 +1,10 @@
+{
+  "chainid": 137,
+  "address": "0xbf7aa1d5e95eb35813d03eacc5c4e9fa3ec6f9ab",
+  "action": "txlistinternal",
+  "snapshot_block": 97890686,
+  "estado": "ok",
+  "generado_utc": "2026-11-24T17:32:16.538611Z",
+  "cantidad": 0,
+  "items": []
+}

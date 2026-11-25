@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2025/MARU/2025/OCTUBRE/Boletin-Resoluciones-6776-(18-10-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:11.149559Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:11 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "107927",
+        "Connection": "close",
+        "x-amz-id-2": "FDgvSIggpd9mhlZLgVWKNwQxpCJMCRQWx3V7tamn5AVUahJh/gDrZigzvmBKAI+tkW1MwygcTmO8MA7X3WLkILbwvyogqMTP",
+        "x-amz-request-id": "SZDMEYQS2ZATQ1ZH",
+        "Server": "cloudflare",
+        "Last-Modified": "Sat, 18 Oct 2025 17:33:09 GMT",
+        "etag": "\"425373e5c2bb66f1308860bde590aabb\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=QSNq3MNl2xtcEdmL4Nj7SX43npo1QqQCEfvZUmgvcWnq56BtTU%2FWPHqznQ9q3Y%2FquAQ9t2snqSVqUC6cxlfrmjmlrSKPW6fUxO9qJh4TlUBusHnN6cVSVP%2B3Cu1uXuPJEruwbg%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a60168366f771ffa-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

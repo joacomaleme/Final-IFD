@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/torneo/Stefi/CONMEBOL-Mundial/Boletin-Resoluciones-6605-27-12-2024.pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:01.682565Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:01 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "410377",
+        "Connection": "close",
+        "x-amz-id-2": "sCFcJz4pOx5KwkW5axTkxeUURnEhIocJZIgffA/rZf7gbcJvdGGC4w8JeUJWXoDJbk/SWaFyCu9ellyrJQduJpqPF/xRIB/T",
+        "x-amz-request-id": "Q9JJYXC3Z9CB306Y",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 27 Dec 2024 15:29:54 GMT",
+        "etag": "\"7d83a963458bf37a9683ecc206e9ec59\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VKj9EA3JIxF5RnM7yTpCUIKDz76eM%2F3L9J6Wc3coLigGKe22IrZcdUAECQ%2BiiBDB5METh%2FzmTeCmzJ%2B1sL4FypENA0PkbWOsEG4JOVqsddispYUU%2BeFcrHkARO8ZNEyPMcCPSA%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a60167fb3dc9abb9-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

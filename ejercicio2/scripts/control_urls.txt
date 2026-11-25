@@ -1,0 +1,25 @@
+# Grupo de control: boletines de la AFA con URL conocida (búsqueda web y sondeo de rutas).
+# Formato: nombre<TAB>URL
+6550	https://assets1.afa.com.ar/torneo/Lea/Septiembre/Boletin-Resoluciones-6550-(30-08-2024).pdf
+6604	https://assets1.afa.com.ar/Banners/Boletin-Comite-Ejecutivo-6604-(20-12-2024).pdf
+6605	https://assets1.afa.com.ar/torneo/Stefi/CONMEBOL-Mundial/Boletin-Resoluciones-6605-27-12-2024.pdf
+6611	https://assets1.afa.com.ar/media/DANI/ENE-25/Boletin-Resoluciones-6611-(17-01-2025).pdf
+6616	https://assets1.afa.com.ar/6616.pdf
+6624	https://assets1.afa.com.ar/6624.pdf
+6630	https://assets1.afa.com.ar/media/DANI/FEB-25/Boletin-Resoluciones-6630-(14-02-2025).pdf
+6631	https://assets1.afa.com.ar/6631.pdf
+6632	https://assets1.afa.com.ar/6632.pdf
+6703	https://assets1.afa.com.ar/torneo/Lea/2025/junio/Boletin-Resoluciones-6703-(06-06-2025).pdf
+6722	https://assets1.afa.com.ar/torneo/Lea/2025/julio/BOLETIN-6722-ETICA-20250711.pdf
+6723	https://assets1.afa.com.ar/torneo/Lea/2025/julio/TE-6723-20250714.pdf
+6730	https://assets1.afa.com.ar/NewFolder-1/Boletin-Resoluciones-6730-(18-07-2025).pdf
+6757	https://assets1.afa.com.ar/media/MARU/2025/09-SEPTIEMBRE/Boletin-Resoluciones-6757-(19-09-2025).pdf
+6759	https://assets1.afa.com.ar/media/MARU/2025/09-SEPTIEMBRE/Boletin-Resoluciones-6759-(22-09-2025).pdf
+6772	https://assets1.afa.com.ar/2025/Boletin-Comite-Ejecutivo-6772-(16-10-2025).pdf
+6776	https://assets1.afa.com.ar/2025/MARU/2025/OCTUBRE/Boletin-Resoluciones-6776-(18-10-2025).pdf
+6788	https://assets1.afa.com.ar/2025/Boletin-Resoluciones-6788-(07-11-2025).pdf
+6803	https://assets1.afa.com.ar/2025/Boletines/Boletin-Resoluciones-6803-(12-12-2025).pdf
+6806	https://assets1.afa.com.ar/2025/Boletines/Boletin-Comite-Ejecutivo-6806-(19-12-2025).pdf
+6814	https://assets1.afa.com.ar/2025/Boletin-6814-x-Reglamento-de-compensacion-por-la-formacion-de-jugadores-jovenes-en-el-ambito-del-Futbol-argentino.pdf
+6816	https://assets1.afa.com.ar/2026/BOLETINES/Boletin-Resoluciones-6816-(16-01-2026).pdf
+6828	https://assets1.afa.com.ar/2026/Boletin-Comite-Ejecutivo-6828-(10-02-2026).pdf

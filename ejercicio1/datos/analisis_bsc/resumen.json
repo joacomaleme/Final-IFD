@@ -1,0 +1,137 @@
+{
+  "fuente": "evidencia/bsc/*.csv (exportación de bscscan.com)",
+  "primera_utc": "2025-08-21 18:00:33",
+  "ultima_utc": "2026-01-06 18:11:17",
+  "tx_normales": 42,
+  "tx_firmadas": 30,
+  "volumen": {
+    "BNB": {
+      "entrada": 10.35,
+      "salida": 10.34
+    },
+    "USDT": {
+      "entrada": 434245.66,
+      "salida": 434189.14
+    }
+  },
+  "remitentes_unicos": 12,
+  "destinatarios_unicos": 17,
+  "permanencia_mediana_usdt_h": 121.58,
+  "pct_usdt_salido_24h": 5.9,
+  "eventos_tokens_falsos_o_polvo": 1436,
+  "contratos_falsos": 139,
+  "contrapartes_compartidas_con_eth_polygon": [
+    {
+      "contraparte": "0x8792423850b2dc7ec5a2add96d217eaad23ad842",
+      "direccion": "ENTRADA",
+      "n": 96,
+      "usdt": 361985.77,
+      "bnb": 0,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0xbf7aa1d5e95eb35813d03eacc5c4e9fa3ec6f9ab",
+      "direccion": "SALIDA",
+      "n": 3,
+      "usdt": 168549.08,
+      "bnb": 0,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0xd53e8c08997ce71e3dc7f7df7f144478d15a81d4",
+      "direccion": "SALIDA",
+      "n": 3,
+      "usdt": 105656.46,
+      "bnb": 5.477849,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0x2af982d27d6389a5a4d46faf230f0ba86a0b36bb",
+      "direccion": "ENTRADA",
+      "n": 3,
+      "usdt": 40132.91,
+      "bnb": 0,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0xaddac8be3c1b819ad9538d684548ab04d25b4663",
+      "direccion": "ENTRADA",
+      "n": 2,
+      "usdt": 15694.39,
+      "bnb": 0,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0xf68a87a5bb6b0287554058f4b8de7def5ae31cdf",
+      "direccion": "SALIDA",
+      "n": 2,
+      "usdt": 10309.26,
+      "bnb": 3.027284,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0x8d0b9717c91c6b2a6de62e91a646a62cd058ef1e",
+      "direccion": "ENTRADA",
+      "n": 1,
+      "usdt": 9400.0,
+      "bnb": 0,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0x04eb4be076aa4593e0571dc97094e09be88a11a8",
+      "direccion": "ENTRADA",
+      "n": 3,
+      "usdt": 3932.55,
+      "bnb": 0,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0xf85f6c1336ee363c475e03d46d157d13b02773d4",
+      "direccion": "ENTRADA",
+      "n": 1,
+      "usdt": 2780.25,
+      "bnb": 0,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0x900533a4346a8b715dd1c1192f1509ad8428a6a3",
+      "direccion": "SALIDA",
+      "n": 1,
+      "usdt": 900.0,
+      "bnb": 0,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0x9bdacf6521e800559f9ffc4c6c357a12b9d3fb06",
+      "direccion": "ENTRADA",
+      "n": 2,
+      "usdt": 160.0,
+      "bnb": 6.220459,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0x57346c2c69ad3bdffd1e97fb83456909b39612f2",
+      "direccion": "ENTRADA",
+      "n": 1,
+      "usdt": 0,
+      "bnb": 1.44838,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0x0f776cc057622f0da2f257d2b987a7cf3386b7cc",
+      "direccion": "ENTRADA",
+      "n": 1,
+      "usdt": 0,
+      "bnb": 1.578911,
+      "tambien_en_eth_o_polygon": true
+    },
+    {
+      "contraparte": "0x20d4a18dd80bf62b52da0830e981d2d7ecee4782",
+      "direccion": "SALIDA",
+      "n": 1,
+      "usdt": 0,
+      "bnb": 0.021255,
+      "tambien_en_eth_o_polygon": true
+    }
+  ]
+}

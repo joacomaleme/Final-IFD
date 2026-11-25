@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2025/Boletin-Comite-Ejecutivo-6772-(16-10-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:10.391077Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:10 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "158907",
+        "Connection": "close",
+        "x-amz-id-2": "kUUAbXJF2k9DhN/Cn+NYiDLn0lpbYmzHaIeERxpKwde1U5hNKuIgGpp998GXLZRpGnmnhy8EMv1G5iM6TjuPldWvLJIrhCzL",
+        "x-amz-request-id": "NE9FQHMTDTDXZ6CH",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 21 Nov 2025 10:09:09 GMT",
+        "etag": "\"eac329463e104f38cfa074771d1e59bc\"",
+        "Accept-Ranges": "bytes",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PPsbPCbS11DQmHA5wrjnU5edQ5BK%2FNVWlJ1o%2B3P05v9jleQmDVZJi7rkOD7Jzqm6F1drXw4UF7GkfBhN9stYm54qSKNjYv%2F%2F2Y8jsOGxsH1KrrkMSQ%2FaiuEzXlMBNzUUv1W4Rg%3D%3D\"}]}",
+        "CF-RAY": "a6016831fd9c6350-ATL",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

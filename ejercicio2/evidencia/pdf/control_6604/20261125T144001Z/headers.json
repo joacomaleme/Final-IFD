@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/Banners/Boletin-Comite-Ejecutivo-6604-(20-12-2024).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:01.012286Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:01 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "150885",
+        "Connection": "close",
+        "x-amz-id-2": "3aXEehDSJjVmJ4MyaNpfAeiRFphlXo4Bh8PEJwT46ZHGI16l7VEIfofNTcwpktNg2PB7WOytdkZXJVaJOzXRJfVbMw5w6Ftr",
+        "x-amz-request-id": "V3QX4CVWKE992AW2",
+        "Server": "cloudflare",
+        "Last-Modified": "Thu, 26 Dec 2024 22:19:10 GMT",
+        "ETag": "\"b99376a1cf3b2513a656c55446fc57cc\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "MISS",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=dAbWhONKsiolju49louG0qsI2G264%2FqSKM5Rp7yyoM2kdx1GkX3Ojr313ipoleEhmUWNZW5FOF5za5uFpat77m23vCB6Pw%2F%2Bj2a21ckGLtnXUz65HTxXAjDGxP%2BFTVwUlp89sw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a60167f70a4c7100-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

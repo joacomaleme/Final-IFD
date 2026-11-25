@@ -1,0 +1,27 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2025/Boletin-Resoluciones-6625-(12-02-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:35:47.211920Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:35:47 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "115282",
+        "Connection": "close",
+        "x-amz-id-2": "soZkI10nzgGTV/FR9Uypr60UHG9qcsS5RM5p+YZhNOQBlorsPilNJPzTq9NlJrMq0zRm6WnySNE=",
+        "x-amz-request-id": "1430AF11PA3BJFMK",
+        "Server": "cloudflare",
+        "Last-Modified": "Mon, 24 Nov 2025 23:09:57 GMT",
+        "etag": "\"9a70fb52a8aa1678405af7af891dbd4c\"",
+        "Age": "7109",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "HIT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FoeefNzUWdWUkoMzPflE%2B4fduRqN3122VsbD38MoIZEGytrY8lC4Y8%2FOYVIxadqtrXpQbHLHKQc0DLFc%2Bc9sb5JugXET%2BLt%2Bngf9kOc1vNAlL6mt9Sz8Slpej6l9BRpRk1UZaw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a60161c51bfe2dfc-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

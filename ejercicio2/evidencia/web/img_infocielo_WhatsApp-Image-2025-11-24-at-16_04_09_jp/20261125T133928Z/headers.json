@@ -1,0 +1,36 @@
+{
+  "hops": [
+    {
+      "url": "https://www.infocielo.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-24-at-16.04.09.jpeg",
+      "status": 200,
+      "requested_utc": "2026-11-25T13:39:28.479048Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 13:39:28 GMT",
+        "Content-Type": "image/jpeg",
+        "Content-Length": "166800",
+        "Connection": "close",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+        "CF-Ray": "a6010f481c7a165c-IAD",
+        "CF-Cache-Status": "MISS",
+        "Accept-Ranges": "bytes",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000",
+        "ETag": "\"6924b50f-28b90\"",
+        "Expires": "Thu, 31 Dec 2037 23:55:55 GMT",
+        "Last-Modified": "Mon, 24 Nov 2025 19:42:07 GMT",
+        "Server": "cloudflare",
+        "Vary": "accept-encoding",
+        "Ki-CF-Cache-Status": "OPTIMIZING",
+        "X-Content-Type-Options": "nosniff",
+        "X-Edge-Location-Klb": "1",
+        "ki-Cache-Tag": "6726b4d6-e3dc-4f25-a911-038a2affedf1,e6850a860a4e7c8cec42a28418457e8b7898a5dce778e65f985313d46df68d0a",
+        "ki-cache-type": "CDN",
+        "ki-edge": "v=28.6.2;mv=99.9.9",
+        "ki-origin": "o1i",
+        "set-cookie": "__cf_bm=gg86hVKLG7YtV7asGTE59YkMldNheivjoChMlFa6PnM-1795613968.6525118-1.0.1.1-R5Izd4oh.wXDiD7.eB8A06lMjnxcrraVFvUf0pVdjrampJSK516lo9Jz.GlJWkx5NZeD4H1sgTdpVF0oylvlD252__2lmj8jBhTv5YH9q18sSUQg087P2hlM7gHHWm4c; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=www.infocielo.com; Expires=Wed, 25 Nov 2026 14:09:28 GMT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Nww3N%2FQ%2BUiLjB8JoaVY73nKCPpGJRknG8lCfybGOeFUCo%2FgRHLeu5H2JwTpDqvtBYtwkJl3hdd6w5ik8B8IxKtG9HRfjaE3Uzb4nSls5PWMblpomvfGkoqbZ586gwb9FE3Wo\"}]}",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

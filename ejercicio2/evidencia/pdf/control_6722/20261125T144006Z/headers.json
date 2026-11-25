@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/torneo/Lea/2025/julio/BOLETIN-6722-ETICA-20250711.pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:06.715632Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:07 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "299773",
+        "Connection": "close",
+        "x-amz-id-2": "0j6/wmCVapWyQtISrqmn1wUoUXq+tnNbDFSNfFA7p5F8djW+3Li8MlercUo5i6HKh6QW9hv1gtc=",
+        "x-amz-request-id": "XFD3BNVSE6G8F7B4",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 11 Jul 2025 17:42:26 GMT",
+        "etag": "\"bf45dffb40cd57adab101593d1a2b253\"",
+        "Accept-Ranges": "bytes",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ncLn107fsWoN1I%2Fp13jRzCUrD8Q1ij6vdXput4AtqTVHlgTSDoJDbuBZxAqY%2BRqFFtXvLpA%2BIcmYpdBU6g9Y3cPLJj%2FlUvIvgopQQ%2B4JDowu58GWXzcE34kKhZMRbjKHFcPiYA%3D%3D\"}]}",
+        "CF-RAY": "a601681ad9376759-ATL",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

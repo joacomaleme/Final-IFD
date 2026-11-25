@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2026/Boletin-Comite-Ejecutivo-6828-(10-02-2026).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:14.818980Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:14 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "152304",
+        "Connection": "close",
+        "x-amz-id-2": "qQliGGXnp1NUnAecGCIOmPnSUd4SvI+ePrXMGzQHL4aLRBy8eDvbnxUKiOUiBU77Uu+vc2twML/O0ckYxFSg+Sx678xjv7S+",
+        "x-amz-request-id": "4NG278MQ34NEG79S",
+        "Server": "cloudflare",
+        "Last-Modified": "Mon, 16 Feb 2026 00:32:15 GMT",
+        "etag": "\"1c656e5df8612914aeed16bba9199306\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=2HVFAEaYMmPm5bBzG5axBUUuMu%2BGPuXJkBZ2Htbr8uJ2UQQwE8NJQq0Q2rqT2yOKudP9hzmSAB1uf7X8vteAK92kGuM6nK7sL5vAPBA6nmj6NwQIpGVXZc0tf3WlNwz7J0W%2Frw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a601684d4fb00cef-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

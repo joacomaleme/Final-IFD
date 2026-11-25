@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2025/Boletin-Resoluciones-6788-(07-11-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:11.747874Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:11 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "271916",
+        "Connection": "close",
+        "x-amz-id-2": "bzs07J2NSXU+QvJ0HUhIOPrF/HSaRB62eR5QgyrYKEAgMuOUJGAwl0logRDqc78qFFQwUF3+Y7QyfJt0MU0MqdHL+YNR7ZBQ",
+        "x-amz-request-id": "9KMAZFP9DA7HY56B",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 07 Nov 2025 14:48:50 GMT",
+        "etag": "\"cf6a5156d2badeeeaaa030c485f3f5e2\"",
+        "Accept-Ranges": "bytes",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ponh6%2BqeOIiEEPaJJFNdb4HNXZSVO7dLPfjGUVS1EklZbt2R9mtZmo%2FEAogK1fyXj9%2Bssni6g5bBzTM0M1SiL831ZQVEbxepZvrlGtQkEj5jmR6W%2B3DdqrGiLmYo70Ogw%2BYZCg%3D%3D\"}]}",
+        "CF-RAY": "a601683a4a02df6b-ATL",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

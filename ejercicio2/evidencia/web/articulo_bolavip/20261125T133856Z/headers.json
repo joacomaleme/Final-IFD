@@ -1,0 +1,35 @@
+{
+  "hops": [
+    {
+      "url": "https://bolavip.com/ar/futbolargentino/el-comunicado-de-afa-en-medio-de-la-polemica-por-el-boletin-y-la-posible-sancion-a-estudiantes-por-su-pasillo-a-rosario-central",
+      "status": 200,
+      "requested_utc": "2026-11-25T13:38:56.269955Z",
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Date": "Wed, 25 Nov 2026 13:33:17 GMT",
+        "Link": "<https://assets.bolavip.com>; rel=preconnect; crossorigin=\"\", <https://assets.bolavip.com/bar/_next/static/css/6ee042669047dd24.css>; rel=preload; as=\"style\"",
+        "X-Powered-By": "Next.js",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+        "X-Content-Type-Options": "nosniff",
+        "Cache-Control": "max-age=0, s-maxage=63072000, stale-if-error=15768000",
+        "is-article": "true",
+        "is-preview": "false",
+        "is-scroll": "false",
+        "Last-Modified": "Mon, 24 Nov 2025 23:47:08 GMT",
+        "path": "/futbolargentino/el-comunicado-de-afa-en-medio-de-la-polemica-por-el-boletin-y-la-posible-sancion-a-estudiantes-por-su-pasillo-a-rosario-central",
+        "url": "/futbolargentino/el-comunicado-de-afa-en-medio-de-la-polemica-por-el-boletin-y-la-posible-sancion-a-estudiantes-por-su-pasillo-a-rosario-central",
+        "x-request-id": "c6d00790-4951-43ea-bd74-13e3f23d9808",
+        "x-middleware-rewrite": "/ar/article/futbolargentino/el-comunicado-de-afa-en-medio-de-la-polemica-por-el-boletin-y-la-posible-sancion-a-estudiantes-por-su-pasillo-a-rosario-central",
+        "Vary": "Accept-Encoding",
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 f4f653453255d3978688a6c5c61be2d6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "IAD61-P11",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9S0Gf3FroUugrGpfehPR0QGfirSGGJF0FslXcUMb-lIBllRT8-9zDA==",
+        "Age": "339"
+      }
+    }
+  ]
+}

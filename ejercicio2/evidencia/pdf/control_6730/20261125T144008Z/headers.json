@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/NewFolder-1/Boletin-Resoluciones-6730-(18-07-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:08.184108Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:08 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "849574",
+        "Connection": "close",
+        "x-amz-id-2": "Z6Xi1BUlfrKAgoHKngpIVQMSrC4/yXGBoam5IUiOrMXDLCJNbbISitE/UxLykeMOjqE1lo8uc1w=",
+        "x-amz-request-id": "RK4KCHTW198NSVAZ",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 18 Jul 2025 15:56:41 GMT",
+        "etag": "\"ebd103a1e93a35bbec40cd00ba0960a9\"",
+        "Accept-Ranges": "bytes",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "cf-cache-status": "HIT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qw9%2F53TiRvi7kdWAfT6044L80uFyl%2BLgb35Nrbs4RLzhrFBNFxa5R1TJqB%2BL5Ds4vEhdOU1rV0qmaLlMO5NCd0dJ09BGbSIpGgiixdQEeqbEWUnZCqzBIRg3ClrnuTzbrREQiA%3D%3D\"}]}",
+        "CF-RAY": "a60168241f1fbfa3-ATL",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

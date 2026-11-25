@@ -1,0 +1,39 @@
+{
+  "hops": [
+    {
+      "url": "https://www.infocielo.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-24-at-15.54.24.jpeg",
+      "status": 200,
+      "requested_utc": "2026-11-25T13:39:41.627645Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 13:39:41 GMT",
+        "Content-Type": "image/jpeg",
+        "Content-Length": "27354",
+        "Connection": "close",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+        "CF-Ray": "a6010f99ce62d6c5-IAD",
+        "CF-Cache-Status": "HIT",
+        "Accept-Ranges": "bytes",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000",
+        "ETag": "\"6924b481-74d4\"",
+        "Expires": "Thu, 31 Dec 2037 23:55:55 GMT",
+        "Last-Modified": "Mon, 24 Nov 2025 19:39:45 GMT",
+        "Server": "cloudflare",
+        "Vary": "accept, accept-encoding",
+        "Ki-CF-Cache-Status": "HIT",
+        "X-Content-Type-Options": "nosniff",
+        "X-Edge-Location-Klb": "1",
+        "cf-bgj": "imgq:100,h2pri",
+        "cf-polished": "ok, orig_size=29908",
+        "ki-Cache-Tag": "6726b4d6-e3dc-4f25-a911-038a2affedf1,62fbea34055e2e23b2666ee2839d09d009bfa37ff3c60d4ff8dc7f96d85edd14",
+        "ki-cache-type": "CDN",
+        "ki-edge": "v=28.6.2;mv=99.9.9",
+        "ki-origin": "o1i",
+        "priority": "u=1;i=?0,cf-chb=(729;u=3;i=?0 2224;u=5;i=?0 15203;u=6;i=?0)",
+        "set-cookie": "__cf_bm=uIpX8QZg66scYo3QqnbqlgKOC_rfd..jBWti8nFNaFc-1795613981.7276294-1.0.1.1-nlmkB3R6J79wyaa3j31KNnEK09fJ9rGGmJIx1O12P2yXAgYxeU8hSFJ9Pafelybdulga0y5TAHB6Fv1BP5SefTH.WBcy6NLfWUKoezn.zvWBzsiwpFoyZ9esCLfQsJTb; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=www.infocielo.com; Expires=Wed, 25 Nov 2026 14:09:41 GMT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BV6pgP6Jcfm8ztBWo9aYU%2FlUSEmLynRKY3AYlOx%2FWBwzalFLaADMXCZGsdWvliw219uZOsh89DTcUPh7JZXH9RNiFmSbFAEVjuz3RmNlolMSIIZqMu5OkGtovS3GWuYyCCzd\"}]}",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/6616.pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:03.012979Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:03 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "554106",
+        "Connection": "close",
+        "x-amz-id-2": "Etq5ZcQYMQ64RET853Dt5Mjh0Niswp70R4WKzRWmMvGiKwhQyeDqlnnd3LaV4J5sPffJeksAxes=",
+        "x-amz-request-id": "GEPGTR1J37Z3TXYB",
+        "Last-Modified": "Wed, 22 Jan 2025 02:06:39 GMT",
+        "etag": "\"b80364851f1bb863580470a6b7c01a5f\"",
+        "Server": "cloudflare",
+        "Age": "4872",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "HIT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=6%2FahO8xmYfC2oB3JAN%2FxCP2zyl%2BlaNrddD8B1ESxWmi0ML1VYWNc7k6jucuFJA6DnBLjcU%2BoZZG4%2FQP1zfLyBCzOnqbzTFPxBIhBh1ONFAlKHHd2ssl%2FSDHcPMlV%2BR7qfJfhTQ%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a601680388b6c05f-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

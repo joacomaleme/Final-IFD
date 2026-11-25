@@ -1,0 +1,27 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2025/Boletin-6814-x-Reglamento-de-compensacion-por-la-formacion-de-jugadores-jovenes-en-el-ambito-del-Futbol-argentino.pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:13.662985Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:13 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "257025",
+        "Connection": "close",
+        "x-amz-id-2": "BGLKnYSwuANsnds5uRT84xytxf5oyJPe6sttiLBK6A9VcnCpFFG2Sogw/awojmfYDPZ7BSPN6Qg/EhwahQ/zJvJ7ALp+DPYz",
+        "x-amz-request-id": "KHDR2WZCA19S0GTH",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 09 Jan 2026 17:31:29 GMT",
+        "etag": "\"86d58d6983e796fcb57aa7051dafba68\"",
+        "Age": "4514",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "HIT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=NeXYQ5JWpWKRG3pxEYqS0v7MwHQmmD%2B8uNX3%2BA69Xz8bEDoi1i%2FEIM09F9Hu0J0mk0Jq4yG62LMOZQRP%2BV%2Fp0sCALv%2BlgF4Vl7OOS%2B%2BZT%2F4y2lFegSe9t9irUMrKLmmhEuhDHw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a60168461ee3805e-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

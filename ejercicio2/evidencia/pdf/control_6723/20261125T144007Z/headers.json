@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/torneo/Lea/2025/julio/TE-6723-20250714.pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:07.489047Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:07 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "229463",
+        "Connection": "close",
+        "x-amz-id-2": "zyXmUymEk6WB2QCvkiOVIDOAoTCng8Ja4xuLLeqNSdhW+tO8iFDDZYUXiAyzYr83Ql7z3iWHfrY=",
+        "x-amz-request-id": "NZPEGJBK7WAV4W49",
+        "Server": "cloudflare",
+        "Last-Modified": "Tue, 15 Jul 2025 01:19:25 GMT",
+        "ETag": "\"e534a74e47c016f21908f683e3af6204\"",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "MISS",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1YTbmKlmI2Y8lYvu0hvMEJ%2FtJ0Y4UOl0A6qZz%2F00f4cWGHeY4HThHVbLEScoKeai4Ss%2BOWFxN%2FyrnSZpC8Fb%2FxOlOlPTvfJyKKaA2mDwkjXCdND8dXgth5B7Cx4KTwXbbQYErw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a601681f8e0dda96-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

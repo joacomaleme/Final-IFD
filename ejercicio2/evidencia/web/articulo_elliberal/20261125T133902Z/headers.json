@@ -1,0 +1,27 @@
+{
+  "hops": [
+    {
+      "url": "https://www.elliberal.com.ar/nota/64973/2025/11/la-afa-respondio-a-las-acusaciones-por-el-boletin-del-pasillo-de-campeon",
+      "status": 200,
+      "requested_utc": "2026-11-25T13:39:02.116787Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 13:39:02 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "Server": "cloudflare",
+        "X-Powered-By": "ASP.NET",
+        "X-XSS-Protection": "0",
+        "Set-Cookie": "gestor=du6031ak4v5h6j7n402til48f1; path=/",
+        "cf-cache-status": "DYNAMIC",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2Fqu6uRxoXSEmzP54PUWlcdz22d69GM8U0BUdyOQNGngKrEx4fPfxOJxosaHdNX1AnzoXczIQvckDNq%2FM%2By6P1GqWh3Z9uRtjh%2Bb7jNZxhxyaeNLCO2uebVDAu7Cw9KJsdvZDaES9fw%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a6010ea2ec9fa265-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

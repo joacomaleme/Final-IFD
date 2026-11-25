@@ -1,0 +1,36 @@
+{
+  "hops": [
+    {
+      "url": "https://www.infocielo.com/wp-content/uploads/2025/11/Boletin-Resoluciones-6625-12-02-2025-pdf.jpg",
+      "status": 200,
+      "requested_utc": "2026-11-25T13:39:27.911012Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 13:39:28 GMT",
+        "Content-Type": "image/jpeg",
+        "Content-Length": "328020",
+        "Connection": "close",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+        "CF-Ray": "a6010f44cb3afc40-IAD",
+        "CF-Cache-Status": "MISS",
+        "Accept-Ranges": "bytes",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=31536000",
+        "ETag": "\"6924b561-50154\"",
+        "Expires": "Thu, 31 Dec 2037 23:55:55 GMT",
+        "Last-Modified": "Mon, 24 Nov 2025 19:43:29 GMT",
+        "Server": "cloudflare",
+        "Vary": "accept-encoding",
+        "Ki-CF-Cache-Status": "OPTIMIZING",
+        "X-Content-Type-Options": "nosniff",
+        "X-Edge-Location-Klb": "1",
+        "ki-Cache-Tag": "6726b4d6-e3dc-4f25-a911-038a2affedf1,720b9096f3510490f9e238849f2364ac9f0ea75437960b2ea421fb7fbc663b3a",
+        "ki-cache-type": "CDN",
+        "ki-edge": "v=28.6.2;mv=99.9.9",
+        "ki-origin": "o1i",
+        "set-cookie": "__cf_bm=hSAh9miIXiSvry.P9OTk4oN_uY1b.bgnzkM05siC07I-1795613968.1275346-1.0.1.1-M2X001te1ERobrj8hwUQPDTgv.fmPcdXx.i56KlItHc2IgjRUcoebG7K9AFHO_5VGKQHD6.i2kXvMARIsUYaPgnWqeEQhacoM.3zetypVLHhrJv3w5o0cnRYEARhOBa3; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=www.infocielo.com; Expires=Wed, 25 Nov 2026 14:09:28 GMT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SqXH8A7qxCAk0UFiWfi0SQPRGQ5AhTXzRYY3DPokdDWgXSSKba6d3m9D4oACdrOpp7tKRrHKA%2F4BQyA%2FgjVBNj71HArNoc11CAHdvs6yo4RxBx%2BUnlB8lZVRUZrQymVjCdjV\"}]}",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

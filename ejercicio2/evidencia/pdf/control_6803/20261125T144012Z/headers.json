@@ -1,0 +1,26 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/2025/Boletines/Boletin-Resoluciones-6803-(12-12-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:12.429783Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:12 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "324136",
+        "Connection": "close",
+        "x-amz-id-2": "oXFNM1TI7Bvz08s9KMviEi360sIZ4lJXcZBg81PNSUVqd9ulErIEGNVpxVoxQWetIIixw6tVw+CtYsNoTr0M2p4vM324DRo1",
+        "x-amz-request-id": "4DRF2EZ9AN59DZNX",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 12 Dec 2025 18:43:33 GMT",
+        "etag": "\"4f9443cc228ab177f13994e54abf3152\"",
+        "Accept-Ranges": "bytes",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "cf-cache-status": "REVALIDATED",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=azvoui6Bg3cxUZ%2FNNcF8WlpwocuQ6F6g3M4Ig5IUPxeVULhVz12eOaXZl%2F7YiqqNGzcfnHLzJvDq7w6cxFf8cA6PeJlIXbYTVzceT0HKyZFJaBwt%2FF0NiXgO3YIvE%2BKFSB7zpg%3D%3D\"}]}",
+        "CF-RAY": "a601683e9c106970-ATL",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

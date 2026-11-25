@@ -1,0 +1,27 @@
+{
+  "hops": [
+    {
+      "url": "https://assets1.afa.com.ar/torneo/Lea/2025/junio/Boletin-Resoluciones-6703-(06-06-2025).pdf",
+      "status": 200,
+      "requested_utc": "2026-11-25T14:40:06.142148Z",
+      "headers": {
+        "Date": "Wed, 25 Nov 2026 14:40:06 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "788486",
+        "Connection": "close",
+        "x-amz-id-2": "7hhfBOGOM7+vkBcSoz/6uz7chdWcp77+I7r43FkZFvug4m4Jbztn4Op07ewiaRp1TJR8+2wK94MVhp1yfWK3x5hMKyYIeCyu",
+        "x-amz-request-id": "1QB6QN5T6G0XDH5T",
+        "Server": "cloudflare",
+        "Last-Modified": "Fri, 06 Jun 2025 14:31:30 GMT",
+        "etag": "\"a98ee95733ff83f31cf75bbd44b1980c\"",
+        "Age": "5548",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "HIT",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qWSEz5qxf3Lj8AycgfBsK4ZDm5MKpRiU9FDPmzdY3aodFUxbKAkHSPaTQH3jlQMX8Gk9526Kvsbi%2BCo%2Fflcq2PPmrABWruM1TYf1OX3qCQmjmJAoZ5%2Fe0tqDl0BJUoZtlkqZXg%3D%3D\"}]}",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "CF-RAY": "a60168171d21d6ff-IAD",
+        "alt-svc": "h3=\":443\"; ma=86400"
+      }
+    }
+  ]
+}

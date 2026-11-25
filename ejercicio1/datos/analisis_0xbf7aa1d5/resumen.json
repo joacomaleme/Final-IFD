@@ -1,0 +1,403 @@
+{
+  "direccion": "0xbf7aa1d5e95eb35813d03eacc5c4e9fa3ec6f9ab",
+  "redes": {
+    "1": {
+      "primera_tx_utc": "2025-10-27 19:08:47",
+      "ultima_tx_utc": "2026-10-05 15:04:35",
+      "tx_totales": 2763,
+      "tx_firmadas": 262,
+      "financiada_por": "0x52f190df8b5f23878b94f60658e0d3ca50cdccb7",
+      "remitentes_unicos_reales": 157,
+      "destinatarios_unicos": 39,
+      "volumen_por_activo": {
+        "ETH": {
+          "entrada": 624.7069,
+          "salida": 624.6669
+        },
+        "USDC": {
+          "entrada": 2136605.0525,
+          "salida": 2136607.2091
+        },
+        "USDT": {
+          "entrada": 6416977.274,
+          "salida": 6416980.5244
+        },
+        "WETH": {
+          "entrada": 0.0,
+          "salida": 0.0
+        }
+      },
+      "eventos_spoofing_tokens_falsos": 4252,
+      "contratos_token_falsos": 924,
+      "direcciones_imitadoras": 458,
+      "salidas_a_imitadoras": 0,
+      "permanencia_fifo": {
+        "1:ETH": {
+          "monto_rastreado": 624.6669,
+          "permanencia_mediana_h": 124.11,
+          "p75_h": 188.66,
+          "p90_h": 809.47,
+          "pct_salido_en_24h": 15.4
+        },
+        "1:USDC": {
+          "monto_rastreado": 2136605.0525,
+          "permanencia_mediana_h": 50.45,
+          "p75_h": 118.28,
+          "p90_h": 194.86,
+          "pct_salido_en_24h": 33.1
+        },
+        "1:USDT": {
+          "monto_rastreado": 6416977.274,
+          "permanencia_mediana_h": 45.39,
+          "p75_h": 75.41,
+          "p90_h": 197.68,
+          "pct_salido_en_24h": 37.3
+        }
+      }
+    },
+    "137": {
+      "primera_tx_utc": "2025-11-25 14:06:15",
+      "ultima_tx_utc": "2026-10-05 15:10:23",
+      "tx_totales": 83,
+      "tx_firmadas": 32,
+      "financiada_por": "0xe1fabf4b99e92a6a896d06919bb6ceb66aedb87c",
+      "remitentes_unicos_reales": 14,
+      "destinatarios_unicos": 13,
+      "volumen_por_activo": {
+        "USDC": {
+          "entrada": 297364.2641,
+          "salida": 297364.2732
+        },
+        "POL": {
+          "entrada": 10224.01,
+          "salida": 9436.1634
+        },
+        "USDT0": {
+          "entrada": 41322.1942,
+          "salida": 41322.1953
+        }
+      },
+      "eventos_spoofing_tokens_falsos": 4276,
+      "contratos_token_falsos": 114,
+      "direcciones_imitadoras": 36,
+      "salidas_a_imitadoras": 0,
+      "permanencia_fifo": {
+        "137:USDC": {
+          "monto_rastreado": 297364.2641,
+          "permanencia_mediana_h": 41.54,
+          "p75_h": 61.17,
+          "p90_h": 310.24,
+          "pct_salido_en_24h": 47.0
+        },
+        "137:POL": {
+          "monto_rastreado": 9436.1634,
+          "permanencia_mediana_h": 0.11,
+          "p75_h": 5827.92,
+          "p90_h": 5827.92,
+          "pct_salido_en_24h": 58.9
+        },
+        "137:USDT0": {
+          "monto_rastreado": 41322.1942,
+          "permanencia_mediana_h": 27.56,
+          "p75_h": 752.12,
+          "p90_h": 752.12,
+          "pct_salido_en_24h": 17.3
+        }
+      }
+    }
+  },
+  "victima_estafador": {
+    "transferencias": 14,
+    "primera_utc": "2025-11-25 13:58:11",
+    "ultima_utc": "2026-01-30 13:23:00",
+    "por_activo": {
+      "1:ETH:ENTRADA": {
+        "cantidad": 5,
+        "monto": 24.4472
+      },
+      "1:USDT:ENTRADA": {
+        "cantidad": 3,
+        "monto": 94462.5634
+      },
+      "1:USDC:ENTRADA": {
+        "cantidad": 1,
+        "monto": 4500.0
+      },
+      "137:USDC:ENTRADA": {
+        "cantidad": 5,
+        "monto": 53956.983
+      }
+    }
+  },
+  "destino_fondos_victima_fifo": {
+    "1:ETH": [
+      [
+        "0x3e4d93d782c0e7a76350de99f202683a94dba7b0",
+        16.25
+      ],
+      [
+        "0xfbbcae635c4127c956ebc0a135696de09425fdcf",
+        5.93
+      ],
+      [
+        "0x2014aae4cda3104eb8be5723b245fe6dec5e64c0",
+        2.18
+      ],
+      [
+        "0xf7f566b0417fb48c69a18280c0ba654a7be8a702",
+        0.09
+      ]
+    ],
+    "1:USDC": [
+      [
+        "0x5e658b80d803d3fab8fe639df1e056627d04101f",
+        4500.0
+      ]
+    ],
+    "1:USDT": [
+      [
+        "0xa22d26f4e44286a1241ff9e84ccecf0a581a7c09",
+        61586.16
+      ],
+      [
+        "0x884d8141b19427e80adca2eb6c15a2c1ef744fe3",
+        20413.84
+      ],
+      [
+        "0x3c8a66a0becaa8f79668067c90910a46103b3580",
+        12462.56
+      ]
+    ],
+    "137:USDC": [
+      [
+        "0x04772a3360a501f0690aeb5f6f5a7293a58da255",
+        43956.98
+      ],
+      [
+        "0x3e4d93d782c0e7a76350de99f202683a94dba7b0",
+        10000.0
+      ]
+    ]
+  },
+  "permanencia_fondos_victima_h": {
+    "mediana": 45.48,
+    "pct_salido_en_24h": 73.9
+  },
+  "salidas_reales_a_imitadoras": [],
+  "top_contrapartes": [
+    {
+      "chain": 1,
+      "top_remitentes": [
+        [
+          "0xe00d950ceb4abe6f14f450635c3d05a06321269e",
+          977510.41,
+          110.5277
+        ],
+        [
+          "0x16defdf2207bdd87bb13a44cea0aa183c73cc77c",
+          948002.42,
+          8.0531
+        ],
+        [
+          "0x25ba3dc5441c3d1dd91fdd2761acbda9300e648e",
+          827442.11,
+          45.4629
+        ],
+        [
+          "0x8acd0526dca35cd477f563abe3e775bc2f353c77",
+          600897.67,
+          31.8999
+        ],
+        [
+          "0x4d094182dc3654eeebe15b7ae198b3511092c5b1",
+          451977.96,
+          1.9
+        ],
+        [
+          "0x121dd3faa9be8bdaf863002e2ba1d39133aa9431",
+          343695.0,
+          18.6698
+        ],
+        [
+          "0x016606acc6b0cfe537acc221e3bf1bb44b4049ee",
+          338638.56,
+          0
+        ],
+        [
+          "0xcc86bfb3ff261b876aec75378d6b1bc63584afb4",
+          327326.85,
+          0
+        ],
+        [
+          "0x6a03ad3ff9fee031166a1c0e0f8ca109ee69673e",
+          300013.5,
+          9.8
+        ],
+        [
+          "0xc18101974774f3262cb2eb44ce38463f92a67cac",
+          297020.19,
+          0
+        ]
+      ],
+      "top_destinos": [
+        [
+          "0x3c8a66a0becaa8f79668067c90910a46103b3580",
+          5853718.58,
+          110.3656
+        ],
+        [
+          "0x4f66fd53f6e3f1dd0dc99c9ca5ad7444e73f366f",
+          0,
+          318.3
+        ],
+        [
+          "0x884d8141b19427e80adca2eb6c15a2c1ef744fe3",
+          851593.71,
+          0
+        ],
+        [
+          "0x4581427e8f4ec2110aa0bcc043ecb58f9246a20d",
+          831934.77,
+          0
+        ],
+        [
+          "0x3e4d93d782c0e7a76350de99f202683a94dba7b0",
+          171479.81,
+          70.097
+        ],
+        [
+          "0x2014aae4cda3104eb8be5723b245fe6dec5e64c0",
+          0,
+          89.849
+        ],
+        [
+          "0xa22d26f4e44286a1241ff9e84ccecf0a581a7c09",
+          235020.0,
+          0
+        ],
+        [
+          "0x657ffaccf3b4e38b02d7f28527e98ecde477c6cf",
+          133383.11,
+          0
+        ],
+        [
+          "0x5e658b80d803d3fab8fe639df1e056627d04101f",
+          131160.28,
+          0
+        ],
+        [
+          "0xfbbcae635c4127c956ebc0a135696de09425fdcf",
+          0,
+          35.7
+        ]
+      ]
+    },
+    {
+      "chain": 137,
+      "top_remitentes": [
+        [
+          "0xde83cf15d27eb4795d4e1d33852bf14caebd2b47",
+          53956.98,
+          0
+        ],
+        [
+          "0x093d59f6767f530c561851b7a0bb6377172dc7b0",
+          49785.13,
+          0
+        ],
+        [
+          "0x8acd0526dca35cd477f563abe3e775bc2f353c77",
+          45163.0,
+          0
+        ],
+        [
+          "0x25ba3dc5441c3d1dd91fdd2761acbda9300e648e",
+          39304.87,
+          0
+        ],
+        [
+          "0x4d094182dc3654eeebe15b7ae198b3511092c5b1",
+          33913.74,
+          0
+        ],
+        [
+          "0x2d379e96f3fac0a83b8b76a297b06efb26528154",
+          26463.25,
+          0
+        ],
+        [
+          "0x16defdf2207bdd87bb13a44cea0aa183c73cc77c",
+          25718.06,
+          0
+        ],
+        [
+          "0x6a03ad3ff9fee031166a1c0e0f8ca109ee69673e",
+          19670.75,
+          0
+        ],
+        [
+          "0x33335b1e565f0765bb9adbddc8814fa7e3f6089c",
+          15425.8,
+          0
+        ],
+        [
+          "0x08521c0f0df72cd5a57a67deed803031d1a20b5d",
+          12397.08,
+          0
+        ]
+      ],
+      "top_destinos": [
+        [
+          "0x729222741012f13122ee397273b17d2a67432df2",
+          0,
+          6300.6805
+        ],
+        [
+          "0xfd77e451273bd2f418296583a52752594ec1f794",
+          0,
+          2361.6655
+        ],
+        [
+          "0x4d094182dc3654eeebe15b7ae198b3511092c5b1",
+          0,
+          450.9081
+        ],
+        [
+          "0x33335b1e565f0765bb9adbddc8814fa7e3f6089c",
+          0,
+          180.2344
+        ],
+        [
+          "0x900533a4346a8b715dd1c1192f1509ad8428a6a3",
+          0,
+          142.6749
+        ],
+        [
+          "0xc5ca73565672affa7d1ad5fda4aeac13db8bc459",
+          144960.2,
+          0
+        ],
+        [
+          "0x04772a3360a501f0690aeb5f6f5a7293a58da255",
+          71404.07,
+          0
+        ],
+        [
+          "0x3e4d93d782c0e7a76350de99f202683a94dba7b0",
+          40000.0,
+          0
+        ],
+        [
+          "0x9372a4e7c28c21f564e6413e99f7c29ba4138995",
+          25000.0,
+          0
+        ],
+        [
+          "0xf7c27c68f70a7a0d2054681d6c73864f17b525db",
+          17162.31,
+          0
+        ]
+      ]
+    }
+  ]
+}
